@@ -1,0 +1,5 @@
+displayName = Yoyo Mania
+author = CheeseLad
+version = 1.0
+hideCode = true
+hideResources = true

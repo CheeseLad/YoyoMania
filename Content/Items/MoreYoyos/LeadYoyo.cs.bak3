@@ -1,0 +1,44 @@
+﻿using MoreYoyos.Projectiles;
+using Terraria;
+using Terraria.ID;
+using Terraria.ModLoader;
+
+namespace MoreYoyos.Items.Weapons
+{
+	public class LeadYoyo : ModItem
+	{
+		public override void SetStaticDefaults()
+		{
+			DisplayName.SetDefault("Lead Yoyo");
+			Tooltip.SetDefault("A great throw!");
+		}
+		public override void SetDefaults()
+		{
+			Item.useStyle = 5;
+			Item.width = 24;
+			Item.height = 24;
+			Item.useAnimation = 25;
+			Item.useTime = 25;
+			Item.shootSpeed = 16f;
+			Item.knockBack = 4f;
+			Item.damage = 12;
+			Item.rare = 2;
+			Item.melee = true;
+			Item.channel = true;
+			Item.noMelee = true;
+			Item.noUseGraphic = true;
+			Item.value = Item.sellPrice(silver: 60);
+            Item.shoot = Mod.ProjectileType("LeadYoyo");
+		}
+		
+		public override void AddRecipes()
+		{
+			Recipe recipe = new Recipe(Mod);
+			recipe.AddIngredient(ItemID.LeadBar, 10);
+			recipe.AddIngredient(ItemID.Cobweb, 30);
+			recipe.AddTile(TileID.Anvils);
+			recipe.SetResult(this);
+			recipe.Register();
+		}
+	}
+}

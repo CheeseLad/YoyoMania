@@ -1,0 +1,446 @@
+# This file will automatically update with entries for new content after a build and reload.
+
+Items: {
+	BasicSword: {
+		DisplayName: Basic Sword
+		Tooltip:
+			'''
+			Template of an item
+			Replacing this tooltip is duty 
+			It's snowing on Mt.Fuji
+			'''
+	}
+
+	AmberYoyo: {
+		DisplayName: Amber Yoyo
+		Tooltip: ""
+	}
+
+	BoneYoGlove: {
+		DisplayName: Bone Yo Glove
+		Tooltip: ""
+	}
+
+	BoneYo: {
+		DisplayName: Bone Yo
+		Tooltip: ""
+	}
+
+	AmethystYoyo: {
+		DisplayName: Amethyst Yoyo
+		Tooltip: ""
+	}
+
+	DANG: {
+		DisplayName: D A N G
+		Tooltip: ""
+	}
+
+	DiamondYoyo: {
+		DisplayName: Diamond Yoyo
+		Tooltip: ""
+	}
+
+	EmeraldYoyo: {
+		DisplayName: Emerald Yoyo
+		Tooltip: ""
+	}
+
+	FlesChade: {
+		DisplayName: Fles Chade
+		Tooltip: ""
+	}
+
+	RubyYoyo: {
+		DisplayName: Ruby Yoyo
+		Tooltip: ""
+	}
+
+	SapphireYoyo: {
+		DisplayName: Sapphire Yoyo
+		Tooltip: ""
+	}
+
+	TopazYoyo: {
+		DisplayName: Topaz Yoyo
+		Tooltip: ""
+	}
+
+	BaseYoyo: {
+		DisplayName: Base Yoyo
+		Tooltip: ""
+	}
+
+	BorealYoyo: {
+		DisplayName: Boreal Yoyo
+		Tooltip: ""
+	}
+
+	EbonYoyo: {
+		DisplayName: Ebon Yoyo
+		Tooltip: ""
+	}
+
+	PalmYoyo: {
+		DisplayName: Palm Yoyo
+		Tooltip: ""
+	}
+
+	PearlYoyo: {
+		DisplayName: Pearl Yoyo
+		Tooltip: ""
+	}
+
+	RichYoyo: {
+		DisplayName: Rich Yoyo
+		Tooltip: ""
+	}
+
+	ShadeYoyo: {
+		DisplayName: Shade Yoyo
+		Tooltip: ""
+	}
+
+	Atmos: {
+		DisplayName: Atmos
+		Tooltip: ""
+	}
+
+	Blizzard: {
+		DisplayName: Blizzard
+		Tooltip: ""
+	}
+
+	CaptainAmericasYoyo: {
+		DisplayName: Captain Americas Yoyo
+		Tooltip: ""
+	}
+
+	Combustion: {
+		DisplayName: Combustion
+		Tooltip: ""
+	}
+
+	Executioner: {
+		DisplayName: Executioner
+		Tooltip: ""
+	}
+
+	H2O: {
+		DisplayName: H2 O
+		Tooltip: ""
+	}
+
+	Stratum: {
+		DisplayName: Stratum
+		Tooltip: ""
+	}
+
+	AdamantiteYoyo: {
+		DisplayName: Adamantite Yoyo
+		Tooltip: ""
+	}
+
+	BorealWoodYoyo: {
+		DisplayName: Boreal Wood Yoyo
+		Tooltip: ""
+	}
+
+	BrokenHeroYoyo: {
+		DisplayName: Broken Hero Yoyo
+		Tooltip: ""
+	}
+
+	CerebralTwister: {
+		DisplayName: Cerebral Twister
+		Tooltip: ""
+	}
+
+	ChlorophyteYoyo: {
+		DisplayName: Chlorophyte Yoyo
+		Tooltip: ""
+	}
+
+	CobaltYoyo: {
+		DisplayName: Cobalt Yoyo
+		Tooltip: ""
+	}
+
+	Code3: {
+		DisplayName: Code3
+		Tooltip: ""
+	}
+
+	CopperYoyo: {
+		DisplayName: Copper Yoyo
+		Tooltip: ""
+	}
+
+	DarkStar: {
+		DisplayName: Dark Star
+		Tooltip: ""
+	}
+
+	EbonwoodYoyo: {
+		DisplayName: Ebonwood Yoyo
+		Tooltip: ""
+	}
+
+	GoldYoyo: {
+		DisplayName: Gold Yoyo
+		Tooltip: ""
+	}
+
+	GrandHarvest: {
+		DisplayName: Grand Harvest
+		Tooltip: ""
+	}
+
+	HallowedYoyo: {
+		DisplayName: Hallowed Yoyo
+		Tooltip: ""
+	}
+
+	Heater: {
+		DisplayName: Heater
+		Tooltip: ""
+	}
+
+	HellstoneYoyo: {
+		DisplayName: Hellstone Yoyo
+		Tooltip: ""
+	}
+
+	Ichoriclash: {
+		DisplayName: Ichoriclash
+		Tooltip: ""
+	}
+
+	IronYoyo: {
+		DisplayName: Iron Yoyo
+		Tooltip: ""
+	}
+
+	LeadYoyo: {
+		DisplayName: Lead Yoyo
+		Tooltip: ""
+	}
+
+	LunarThrow: {
+		DisplayName: Lunar Throw
+		Tooltip: ""
+	}
+
+	MeteoriteYoyo: {
+		DisplayName: Meteorite Yoyo
+		Tooltip: ""
+	}
+
+	Midas: {
+		DisplayName: Midas
+		Tooltip: ""
+	}
+
+	Mirasoma: {
+		DisplayName: Mirasoma
+		Tooltip: ""
+	}
+
+	MythrilYoyo: {
+		DisplayName: Mythril Yoyo
+		Tooltip: ""
+	}
+
+	NokNokJoek: {
+		DisplayName: Nok Nok Joek
+		Tooltip: ""
+	}
+
+	OrichalcumYoyo: {
+		DisplayName: Orichalcum Yoyo
+		Tooltip: ""
+	}
+
+	PalladiumYoyo: {
+		DisplayName: Palladium Yoyo
+		Tooltip: ""
+	}
+
+	PalmWoodYoyo: {
+		DisplayName: Palm Wood Yoyo
+		Tooltip: ""
+	}
+
+	PearlwoodYoyo: {
+		DisplayName: Pearlwood Yoyo
+		Tooltip: ""
+	}
+
+	PlatinumYoyo: {
+		DisplayName: Platinum Yoyo
+		Tooltip: ""
+	}
+
+	Potayo: {
+		DisplayName: Potayo
+		Tooltip: ""
+	}
+
+	RichMahoganyYoyo: {
+		DisplayName: Rich Mahogany Yoyo
+		Tooltip: ""
+	}
+
+	ShadewoodYoyo: {
+		DisplayName: Shadewood Yoyo
+		Tooltip: ""
+	}
+
+	ShroomiteYoyo: {
+		DisplayName: Shroomite Yoyo
+		Tooltip: ""
+	}
+
+	SilverYoyo: {
+		DisplayName: Silver Yoyo
+		Tooltip: ""
+	}
+
+	Spazmatism: {
+		DisplayName: Spazmatism
+		Tooltip: ""
+	}
+
+	SunsWrath: {
+		DisplayName: Suns Wrath
+		Tooltip: ""
+	}
+
+	TerraYoyo: {
+		DisplayName: Terra Yoyo
+		Tooltip: ""
+	}
+
+	TinYoyo: {
+		DisplayName: Tin Yoyo
+		Tooltip: ""
+	}
+
+	TitaniumYoyo: {
+		DisplayName: Titanium Yoyo
+		Tooltip: ""
+	}
+
+	TrueHallowedYoyo: {
+		DisplayName: True Hallowed Yoyo
+		Tooltip: ""
+	}
+
+	TrueLunarThrow: {
+		DisplayName: True Lunar Throw
+		Tooltip: ""
+	}
+
+	TungstenYoyo: {
+		DisplayName: Tungsten Yoyo
+		Tooltip: ""
+	}
+
+	Widow: {
+		DisplayName: Widow
+		Tooltip: ""
+	}
+
+	YoyoOfGrass: {
+		DisplayName: Yoyo Of Grass
+		Tooltip: ""
+	}
+
+	DonutYoyo: {
+		DisplayName: Donut Yoyo
+		Tooltip: ""
+	}
+
+	EmeraldYoyoGreensMod: {
+		DisplayName: Emerald Yoyo Greens Mod
+		Tooltip: ""
+	}
+
+	PhaseYoyo: {
+		DisplayName: Phase Yoyo
+		Tooltip: ""
+	}
+}
+
+Projectiles: {
+	AmberYoyoProjectile.DisplayName: Amber Yoyo Projectile
+	AmethystYoyoProjectile.DisplayName: Amethyst Yoyo Projectile
+	BoneYoProjectile.DisplayName: Bone Yo Projectile
+	DANGProjectile.DisplayName: D A N G Projectile
+	DiamondYoyoProjectile.DisplayName: Diamond Yoyo Projectile
+	EmeraldYoyoProjectile.DisplayName: Emerald Yoyo Projectile
+	FlesChadeProjectile.DisplayName: Fles Chade Projectile
+	RubyYoyoProjectile.DisplayName: Ruby Yoyo Projectile
+	SapphireYoyoProjectile.DisplayName: Sapphire Yoyo Projectile
+	TopazYoyoProjectile.DisplayName: Topaz Yoyo Projectile
+	BaseYoyoProjectile.DisplayName: Base Yoyo Projectile
+	BorealYoyoProjectile.DisplayName: Boreal Yoyo Projectile
+	EbonYoyoProjectile.DisplayName: Ebon Yoyo Projectile
+	PalmYoyoProjectile.DisplayName: Palm Yoyo Projectile
+	PearlYoyoProjectile.DisplayName: Pearl Yoyo Projectile
+	RichYoyoProjectile.DisplayName: Rich Yoyo Projectile
+	ShadeYoyoProjectile.DisplayName: Shade Yoyo Projectile
+	AtmosProjectile.DisplayName: Atmos Projectile
+	BlizzardProjectile.DisplayName: Blizzard Projectile
+	CaptainAmericasYoyoProjectile.DisplayName: Captain Americas Yoyo Projectile
+	CombustionProjectile.DisplayName: Combustion Projectile
+	ExecutionerProjectile.DisplayName: Executioner Projectile
+	H2OProjectile.DisplayName: H2 O Projectile
+	StratumProjectile.DisplayName: Stratum Projectile
+	AdamantiteYoyoProjectile.DisplayName: Adamantite Yoyo Projectile
+	BorealWoodYoyoProjectile.DisplayName: Boreal Wood Yoyo Projectile
+	CerebralTwisterProjectile.DisplayName: Cerebral Twister Projectile
+	ChlorophyteYoyoProjectile.DisplayName: Chlorophyte Yoyo Projectile
+	CobaltYoyoProjectile.DisplayName: Cobalt Yoyo Projectile
+	Code3Projectile.DisplayName: Code3 Projectile
+	CopperYoyoProjectile.DisplayName: Copper Yoyo Projectile
+	DarkStarProjectile.DisplayName: Dark Star Projectile
+	EbonwoodYoyoProjectile.DisplayName: Ebonwood Yoyo Projectile
+	GoldYoyoProjectile.DisplayName: Gold Yoyo Projectile
+	GrandHarvestProjectile.DisplayName: Grand Harvest Projectile
+	HallowedYoyoProjectile.DisplayName: Hallowed Yoyo Projectile
+	HeaterProjectile.DisplayName: Heater Projectile
+	HellstoneYoyoProjectile.DisplayName: Hellstone Yoyo Projectile
+	IchoriclashProjectile.DisplayName: Ichoriclash Projectile
+	IronYoyoProjectile.DisplayName: Iron Yoyo Projectile
+	LeadYoyoProjectile.DisplayName: Lead Yoyo Projectile
+	LunarThrowProjectile.DisplayName: Lunar Throw Projectile
+	MeteoriteYoyoProjectile.DisplayName: Meteorite Yoyo Projectile
+	MidasProjectile.DisplayName: Midas Projectile
+	MirasomaProjectile.DisplayName: Mirasoma Projectile
+	MythrilYoyoProjectile.DisplayName: Mythril Yoyo Projectile
+	NokNokJoekProjectile.DisplayName: Nok Nok Joek Projectile
+	OrichalcumYoyoProjectile.DisplayName: Orichalcum Yoyo Projectile
+	PalladiumYoyoProjectile.DisplayName: Palladium Yoyo Projectile
+	PalmWoodYoyoProjectile.DisplayName: Palm Wood Yoyo Projectile
+	PearlwoodYoyoProjectile.DisplayName: Pearlwood Yoyo Projectile
+	PlatinumYoyoProjectile.DisplayName: Platinum Yoyo Projectile
+	PotayoProjectile.DisplayName: Potayo Projectile
+	RichMahoganyYoyoProjectile.DisplayName: Rich Mahogany Yoyo Projectile
+	ShadewoodYoyoProjectile.DisplayName: Shadewood Yoyo Projectile
+	ShroomiteYoyoProjectile.DisplayName: Shroomite Yoyo Projectile
+	SilverYoyoProjectile.DisplayName: Silver Yoyo Projectile
+	SpazmatismProjectile.DisplayName: Spazmatism Projectile
+	SunsWrathProjectile.DisplayName: Suns Wrath Projectile
+	TerraYoyoProjectile.DisplayName: Terra Yoyo Projectile
+	TinYoyoProjectile.DisplayName: Tin Yoyo Projectile
+	TitaniumYoyoProjectile.DisplayName: Titanium Yoyo Projectile
+	TrueHallowedYoyoProjectile.DisplayName: True Hallowed Yoyo Projectile
+	TrueLunarThrowProjectile.DisplayName: True Lunar Throw Projectile
+	TungstenYoyoProjectile.DisplayName: Tungsten Yoyo Projectile
+	WidowProjectile.DisplayName: Widow Projectile
+	YoyoOfGrassProjectile.DisplayName: Yoyo Of Grass Projectile
+	DonutYoyoProj.DisplayName: Donut Yoyo Proj
+	EmeraldYoyoGreensModProjectile.DisplayName: Emerald Yoyo Greens Mod Projectile
+	PhaseYoyoProjectile.DisplayName: Phase Yoyo Projectile
+}
